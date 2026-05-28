@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated Banner -->
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
   &nbsp;Hey, I'm Mayank Yadav
@@ -89,8 +88,8 @@ mayank = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankYdv65&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&ring_color=00d4ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankYdv65&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankYdv65&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&ring_color=00d4ff&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankYdv65&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=1800" />
 
 </div>
 
@@ -98,17 +97,7 @@ mayank = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankYdv65&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=7928ca&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="60%"/>
-
-</div>
-
----
-
-## `$ cat ./trophies`
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MayankYdv65&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com?user=MayankYdv65&theme=dark&hide_border=true&background=0d1117&stroke=00d4ff&ring=7928ca&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="60%"/>
 
 </div>
 
