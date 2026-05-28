@@ -88,15 +88,6 @@ mayank = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankYdv65&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&ring_color=00d4ff&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankYdv65&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&cache_seconds=1800" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=MayankYdv65&theme=dark&hide_border=true&background=0d1117&stroke=00d4ff&ring=7928ca&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="60%"/>
 
 </div>
