@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankydv72/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-MayankYadav__72-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MayankYadav_72/)
-[![GitHub](https://img.shields.io/badge/GitHub-MayankYdv65-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankYdv65)
+
 
 </div>
 
