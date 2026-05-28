@@ -1,24 +1,30 @@
 <div align="center">
 
-<!-- Animated Banner - using readme-typing-svg as header instead -->
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-  &nbsp;Hey, I'm Mayank Yadav
-</h1>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=Brajesh%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Product%20Builder%20%7C%201500%2B%20DSA&descAlignY=58&descSize=16&descColor=a0aec0&animation=fadeIn" width="100%"/>
 
-<h3>🎓 B.Tech CSE (AI & ML) · BML Munjal University · 2023–2027</h3>
+</div>
 
 <br/>
 
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+with+Python+%2B+TensorFlow+%2B+OpenCV+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+DSA+%F0%9F%A7%A0;B.Tech+CSE+(AI+%26+ML)+%40+BML+Munjal+University+%F0%9F%8E%93;Turning+ideas+into+real+AI+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
 
-<br/><br/>
+<!-- Animated Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+scalable+systems+%F0%9F%9A%80;Full-Stack+with+React.js+%26+Node.js+%E2%9A%A1;1500%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Clean+Architecture+%7C+Product+Engineering)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
 
 <!-- Profile Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankydv72/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-MayankYadav__72-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MayankYadav_72/)
-[![GitHub](https://img.shields.io/badge/GitHub-MayankYdv65-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankYdv65)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brajesh%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brajeshkumarsde/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-brajesh__13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/brajesh_13/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-brajesh__dce-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/brajesh_dce)
+[![GitHub](https://img.shields.io/badge/GitHub-bk7842118-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bk7842118)
 
 </div>
 
@@ -26,16 +32,18 @@
 
 ## `$ whoami`
 
-```python
-mayank = {
-    "name"       : "Mayank Yadav",
-    "degree"     : "B.Tech CSE (AI & ML) — BML Munjal University",
-    "batch"      : "2023 – 2027",
-    "interests"  : ["Machine Learning", "Deep Learning", "Computer Vision", "DSA"],
-    "languages"  : ["Python", "C++"],
-    "currently"  : "Building AI/ML projects & sharpening DSA skills",
-}
+```typescript
+const brajesh = {
+  role       : "Full-Stack Software Engineer",
+  experience : "3+ years in Product & Platform Engineering",
+  stack      : ["React.js", "Node.js", "MongoDB", "JavaScript", "TypeScript"],
+  focus      : ["Scalable Systems", "Clean Architecture", "DSA", "Product Engineering"],
+  dsa        : "1500+ problems solved across LeetCode & Codeforces",
+  currentlyOn: "Building production-grade web apps & scalable backends",
+};
 ```
+
+<br/>
 
 ---
 
@@ -43,70 +51,38 @@ mayank = {
 
 <div align="center">
 
-**Languages**
+**Frontend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**AI / ML & Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-**Web**
-
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Database & Tools**
+**Backend**
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools & Workflow**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
----
-
-## `$ cat ./projects`
-
-### 🎭 Face Emotion Detection System
-> **Python · OpenCV · face_recognition · NumPy**
-
-Real-time emotion detection app using webcam feed that identifies and displays the user's current emotion live.
-
----
-
-### 📈 Stock Wiser — Stock Analysis Web Portal
-> **HTML · CSS · JavaScript**
-
-Multi-page stock analysis website with login interface and dynamic per-company stock analysis views.
-
----
-
-### 🌐 Fog-Computing Network Simulation
-> **MATLAB · K-Means Clustering · AES Encryption · IoT**
-
-1,000-node IoT fog network simulation with energy-aware cluster selection (HLTFA), AES encryption, and QoS benchmarking across routing protocols.
-
----
-
-## `$ cat ./experience`
-
-### 💼 AI & ML Intern — Edubot Station Pvt. Ltd. *(Jun 2025 – Jul 2025)*
-- Completed hands-on assignments covering AI/ML concepts including data cleaning & preprocessing
-- Applied Python-based techniques to real datasets in a structured remote internship program
-- 🏅 Certified via Andhra Pradesh State Council of Higher Education
-
-### 🏅 Certifications
-- **IoT Security: Interface and Data Security** — CertNexus via Coursera *(Mar 2026)*
-- **AI & Machine Learning Internship** — Edubot Station / APSCHE *(Jun–Jul 2025)*
 
 ---
 
@@ -114,8 +90,8 @@ Multi-page stock analysis website with login interface and dynamic per-company s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankYdv65&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&ring_color=00d4ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankYdv65&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bk7842118&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=c9d1d9&ring_color=00d4ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bk7842118&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
 
 </div>
 
@@ -123,7 +99,8 @@ Multi-page stock analysis website with login interface and dynamic per-company s
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankYdv65&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=7928ca&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="60%"/>
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bk7842118&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=7928ca&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="60%"/>
 
 </div>
 
@@ -133,7 +110,7 @@ Multi-page stock analysis website with login interface and dynamic per-company s
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MayankYdv65&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bk7842118&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -143,7 +120,19 @@ Multi-page stock analysis website with login interface and dynamic per-company s
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/MayankYadav_72?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&bg_color=0d1117&border_radius=10)](https://leetcode.com/u/MayankYadav_72/)
+<!-- LeetCode Stats -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/brajesh_13?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&bg_color=0d1117&border_radius=10)](https://leetcode.com/u/brajesh_13/)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Platform | Stats |
+|---|---|
+| 🟡 **LeetCode** | 1500+ problems · [brajesh_13](https://leetcode.com/u/brajesh_13/) |
+| 🔵 **Codeforces** | Active competitive programmer · [brajesh_dce](https://codeforces.com/profile/brajesh_dce) |
 
 </div>
 
@@ -153,7 +142,7 @@ Multi-page stock analysis website with login interface and dynamic per-company s
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankYdv65&bg_color=0d1117&color=00d4ff&line=7928ca&point=ffffff&area=true&area_color=7928ca&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bk7842118&bg_color=0d1117&color=00d4ff&line=7928ca&point=ffffff&area=true&area_color=7928ca&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -161,11 +150,17 @@ Multi-page stock analysis website with login interface and dynamic per-company s
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MayankYdv65&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/MayankYdv65?style=for-the-badge&color=7928ca&labelColor=0d1117&logo=github&label=FOLLOWERS)
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=bk7842118&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/bk7842118?style=for-the-badge&color=7928ca&labelColor=0d1117&logo=github&label=FOLLOWERS)
 
 <br/><br/>
 
-*"Code it. Train it. Deploy it."*
+*"First, solve the problem. Then, write the code."*
+
+<br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
