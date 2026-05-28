@@ -1,24 +1,21 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=Mayank%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20B.Tech%20CSE%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&descColor=a0aec0&animation=fadeIn" width="100%"/>
+<!-- Animated Banner - using readme-typing-svg as header instead -->
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+  &nbsp;Hey, I'm Mayank Yadav
+</h1>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=B.Tech+CSE+(AI+%26+ML)+%40+BML+Munjal+University+%F0%9F%8E%93;Building+with+Python+%2B+TensorFlow+%2B+OpenCV+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+DSA+%F0%9F%A7%A0;Turning+ideas+into+real+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
+<h3>🎓 B.Tech CSE (AI & ML) · BML Munjal University · 2023–2027</h3>
 
 <br/>
 
----
+<!-- Animated Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+with+Python+%2B+TensorFlow+%2B+OpenCV+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+DSA+%F0%9F%A7%A0;B.Tech+CSE+(AI+%26+ML)+%40+BML+Munjal+University+%F0%9F%8E%93;Turning+ideas+into+real+AI+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<div align="center">
+<br/><br/>
 
+<!-- Profile Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankydv72/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-MayankYadav__72-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MayankYadav_72/)
 [![GitHub](https://img.shields.io/badge/GitHub-MayankYdv65-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankYdv65)
@@ -170,9 +167,5 @@ Multi-page stock analysis website with login interface and dynamic per-company s
 <br/><br/>
 
 *"Code it. Train it. Deploy it."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
